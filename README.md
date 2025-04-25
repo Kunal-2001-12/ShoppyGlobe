@@ -26,7 +26,7 @@ ShoppyGlobe is a fully responsive e-commerce web application built with **React*
 ## 📦 Installation & Running Locally
 
 ```bash
-git clone https://github.com/yourusername/shoppy-globe.git
+git clone https://github.com/Kunal-2001-12/ShoppyGlobe.git
 cd shoppy-globe
 npm install
 npm run dev
