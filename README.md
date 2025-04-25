@@ -65,8 +65,8 @@ shoppy-globe/
 ---
 
 ## 📸 Screenshots
+![Screenshot 2025-04-25 212551](https://github.com/user-attachments/assets/355eba0e-94e3-4938-81fe-27f321b9efda)
 
-You can add screenshots of the homepage, product detail, and cart UI here.
 
 ---
 
